@@ -1,5 +1,5 @@
 {
-  "name": "@quality-codex/domdom",
+  "name": "@quality-codex/dom",
   "version": "0.1.0",
   "description": "Dom library related to other components",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antony-quality-codex/domdom.git"
+    "url": "git+https://github.com/antony-quality-codex/dom.git"
   },
   "keywords": [
     "dom"
@@ -17,9 +17,9 @@
   "author": "Antony Lemmens",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/antony-quality-codex/domdom/issues"
+    "url": "https://github.com/antony-quality-codex/dom/issues"
   },
-  "homepage": "https://github.com/antony-quality-codex/domdom#readme",
+  "homepage": "https://github.com/antony-quality-codex/dom#readme",
   "devDependencies": {
     "eslint": "^8.57.0",
     "eslint-config-standard": "^17.1.0",
