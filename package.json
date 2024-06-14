@@ -1,0 +1,28 @@
+{
+  "name": "@quality-codex/domdom",
+  "version": "0.1.0",
+  "description": "Dom library related to other components",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antony-quality-codex/domdom.git"
+  },
+  "keywords": [
+    "dom"
+  ],
+  "author": "Antony Lemmens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antony-quality-codex/domdom/issues"
+  },
+  "homepage": "https://github.com/antony-quality-codex/domdom#readme",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1"
+  }
+}
